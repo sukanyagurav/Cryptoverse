@@ -1,6 +1,7 @@
 ## Links
 - [GitHub URL](https://github.com/sukanyagurav/Entertainment-web-app)
 - [Live URL ](https://cryptoverse5867.netlify.app/)
+
 ## Cryptoverse
 
 In this project-
@@ -15,6 +16,17 @@ In this project-
 - RAPID API
 - Ant design for styling 
 
+![Design desktop preview ](./src/images/desktop_preview.png)
+
+![Design Tablet preview ](./src/images/tablet_preview.png)
+
+![Design Mobile preview ](./src/images/mobile%20preview.png)
+
+![Design currency detail preview ](./src/images/coin_details_page.png)
+
+![Design news page preview ](./src/images/newsPage.png)
+
+![Design exchange page preview ](./src/images/exchangePage.png)
 
 ## Useful resources
  - [JS Mastery](https://youtu.be/9DDX3US3kss?si=AERaWH0IerHmLAjG)

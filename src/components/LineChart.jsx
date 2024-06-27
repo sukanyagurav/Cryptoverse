@@ -12,7 +12,7 @@ const LineChart = ({coinHisotry,currentPrice,coinName}) => {
     for (let i = 0; i < coinHisotry?.data?.history?.length; i++) {
         coinPrice.push(coinHisotry?.data?.history[i].price);
         coinTimestamps.push(new Date(coinHisotry?.data?.history[i].timestamp * 1000).toLocaleDateString());
-        console.log(coinTimestamps[i])
+
       }
     
 
