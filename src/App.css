@@ -22,11 +22,13 @@ a:hover{
 .app{
     display: flex;
     overflow: hidden;
+    justify-content: space-between;
 }
 
 .navbar{
-    flex: 0.25;
+    flex: 0.2;
     background-color: rgb(0, 21, 41);
+   
 }
 
 .main{
@@ -34,7 +36,7 @@ a:hover{
     width: 100%;
     position: absolute;
     right: 0;
-    width: 80%;
+    width:calc(100vw - 22%);
 }
 .routes{
     padding: 20px;
@@ -46,6 +48,7 @@ a:hover{
     height: 100vh;
     margin: 0px;
     background-color: rgb(0, 21, 41);
+
 }
 
 .logo-container{

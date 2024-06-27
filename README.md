@@ -1,6 +1,6 @@
 ## Links
 - [GitHub URL](https://github.com/sukanyagurav/Entertainment-web-app)
-- [Live URL ]()
+- [Live URL ](https://cryptoverse5867.netlify.app/)
 ## Cryptoverse
 
 In this project-
