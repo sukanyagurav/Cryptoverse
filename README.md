@@ -16,7 +16,7 @@ In this project-
 - RAPID API
 - Ant design for styling 
 
-![Design desktop preview ](./src/images/desktop_preview.png=400x)
+![Design desktop preview ](./src/images/desktop_preview.png =400x)
 
 ![Design Tablet preview ](./src/images/tablet_preview.png)
 
