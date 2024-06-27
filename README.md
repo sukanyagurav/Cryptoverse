@@ -1,3 +1,6 @@
+## Links
+- [GitHub URL](https://github.com/sukanyagurav/Entertainment-web-app)
+- [Live URL ]()
 ## Cryptoverse
 
 In this project-
@@ -14,9 +17,10 @@ In this project-
 
 
 ## Useful resources
- - JS Mastery [https://youtu.be/9DDX3US3kss?si=AERaWH0IerHmLAjG]
- - News API [https://news-api14.p.rapidapi.com/v2]
- - Coin API [https://coinranking1.p.rapidapi.com]
+ - [JS Mastery](https://youtu.be/9DDX3US3kss?si=AERaWH0IerHmLAjG)
+ - [News API](https://news-api14.p.rapidapi.com/v2)
+ - [Coin API](https://coinranking1.p.rapidapi.com)
+
 
 
 ## Available Scripts
