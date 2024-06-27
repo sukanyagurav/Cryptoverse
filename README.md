@@ -16,19 +16,24 @@ In this project-
 - RAPID API
 - Ant design for styling 
 
-![Design desktop preview ](./src/images/desktop_preview.png =400x)
+| Desktop Preview                                                          | Mobile Preview              |
+| ----------------------                                                   | ---------------------- |
+| <img src="./src/images/desktop_preview.png" width="100%" height="400" /> | <img src="./src/images/mobile preview.png" width="100%" height="400" /> |
 
-<img src="./src/images/desktop_preview.png" width="400" height="400" />
+| Tablet Preview                                                           | New Preview Page           |
+| ----------------------                                                   | ---------------------- |
+| <img src="./src/images/tablet_preview.png" width="100%" height="400" />  | <img src="./src/images/newsPage.png" width="100%" height="400" /> |
 
-![Design Tablet preview ](./src/images/tablet_preview.png)
+| Coin details Preview page                                                   | Exchange preview page          |
+| ----------------------                                                      | ---------------------- |
+| <img src="./src/images/coin_details_page.png" width="100%" height="400" />  | <img src="./src/images/exchangePage.png" width="100%" height="400" /> |
 
-![Design Mobile preview ](./src/images/mobile%20preview.png)
 
-![Design currency detail preview ](./src/images/coin_details_page.png)
 
-![Design news page preview ](./src/images/newsPage.png)
 
-![Design exchange page preview ](./src/images/exchangePage.png)
+
+
+
 
 ## Useful resources
  - [JS Mastery](https://youtu.be/9DDX3US3kss?si=AERaWH0IerHmLAjG)
