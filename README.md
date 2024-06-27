@@ -18,6 +18,8 @@ In this project-
 
 ![Design desktop preview ](./src/images/desktop_preview.png =400x)
 
+<img src="./src/images/desktop_preview.png" width="400" height="400" />
+
 ![Design Tablet preview ](./src/images/tablet_preview.png)
 
 ![Design Mobile preview ](./src/images/mobile%20preview.png)
